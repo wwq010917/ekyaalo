@@ -1,0 +1,12 @@
+{
+  "name": "ekyaalo",
+  "displayName": "ekyaalo",
+  "expo": {
+    "name": "ekyaalo",
+    "slug": "ekyaalo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
